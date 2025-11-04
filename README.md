@@ -1,4 +1,4 @@
-# NLP Projects — M.Sc. Machine Learning & Data Science  
+# NLP Projects - M.Sc. Machine Learning & Data Science  
 **Author:** Tomer Teperovich  
 **Program:** M.Sc. in Machine Learning & Data Science, Reichman University  
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🏷️ Assignment 2 – Named Entity Recognition 
+## Assignment 2 – Named Entity Recognition 
 **Goal:** Develop and compare multiple **LSTM-based NER models** using the ReCoNLL-2003 dataset.  
 
 **Highlights:**

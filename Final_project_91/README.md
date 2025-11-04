@@ -1,12 +1,12 @@
 # Identifying and Completing Hebrew Multi-Word Expressions  
 ### Comparative Evaluation of Masked and Generative Language Models
 
-**Course:** Natural Language Processing (M.Sc. ML & DS — Reichman University, 2025)  
+**Course:** Natural Language Processing (M.Sc. ML & DS - Reichman University, 2025)  
 
 ---
 
 ## Overview
-This project investigates how modern Hebrew and multilingual Transformer models understand **Multi-Word Expressions (MWEs)** — especially idioms whose meanings are **non-compositional**.  
+This project investigates how modern Hebrew and multilingual Transformer models understand **Multi-Word Expressions (MWEs)** - especially idioms whose meanings are **non-compositional**.  
 The task is formulated as **Masked Word Completion**: given a Hebrew sentence containing a masked idiom component, models must predict the correct missing word.
 
 Three architectures were compared:
